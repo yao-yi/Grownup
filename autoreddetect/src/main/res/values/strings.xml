@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">红包快手</string>
+    <string name="start">立即开启</string>
+    <string name="start_successful">恭喜，开启成功！</string>
+    <string name="description">开启此功能，即可使用[红包快手]，一个红包都不错过。\n打开右上角开关，将收到系统提醒，点击"确认"即可。\n提示：本应用将保证用户权益，不会通过辅助功能收集用户任何隐私，请放心开启！</string>
+</resources>
